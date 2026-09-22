@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://0mmd3tecaik0"
-path="res://.godot/imported/green.jpg-6460acb644b25929b0e7e6d4977e0bc4.ctex"
+uid="uid://cfnj5i16we5x7"
+path="res://.godot/imported/platy.png-5821c3afaf2ff0ff73e32f3d510850a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://green.jpg"
-dest_files=["res://.godot/imported/green.jpg-6460acb644b25929b0e7e6d4977e0bc4.ctex"]
+source_file="res://screenshots/platy.png"
+dest_files=["res://.godot/imported/platy.png-5821c3afaf2ff0ff73e32f3d510850a5.ctex"]
 
 [params]
 
