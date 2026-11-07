@@ -7,6 +7,6 @@ This game was made with the idea of having simple textures that resembled large 
 - W-A-S-D for Movement
 - Space for Jump
 
-Check out the Web Demo [Here] (https://jaijanse09.itch.io/platy).
+Check out the Web Demo [Here](https://jaijanse09.itch.io/platy).
 
 Made for Jumpstart Haven
